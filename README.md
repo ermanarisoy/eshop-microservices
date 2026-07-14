@@ -6,11 +6,19 @@ GenAI for .NET: Build LLM Apps with OpenAI and Ollama
 I use a modern, powerful, and production-ready tech stack:
 
 .NET 9
+
 ASP.NET Core (Minimal APIs, Blazor)
+
 .NET Aspire for orchestration
+
 OpenAI / GitHub Models (gpt-4o-mini, text-embedding-3-small)
+
 Ollama (Llama 3.2, LLaVA, all-minilm)
+
 Qdrant Vector Database
+
 Microsoft.Extensions.AI Abstractions
+
 Entity Framework Core & PostgreSQL
+
 Docker
